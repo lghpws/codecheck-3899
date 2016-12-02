@@ -1,10 +1,11 @@
 ## デプロイ情報
 #### サービスURL
 - {ws:boiling-ridge-83772.herokuapp.com}
--データベース
+#### データベース管理画面
 -{http://salty-fortress-26407.herokuapp.com/tarots}
 
 #### リポジトリURL
+######　サーバー
 {http://github.com/lghpws/websokbotser33}
 
 #### 使用言語
@@ -16,7 +17,7 @@
 ####  ホスティングサービス
 - へろく
 
-## 独自コマンドの実装
+## 実装
 #### 追加したコマンド
 ```
 bot:tarot
