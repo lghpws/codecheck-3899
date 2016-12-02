@@ -1,6 +1,7 @@
 ## デプロイ情報
 #### サービスURL
-ws:boiling-ridge-83772.herokuapp.com
+- ws:boiling-ridge-83772.herokuapp.com (お持ちのwebsocketクライアントをご利用下さい)
+
 #### データベース管理画面
 -　{http://salty-fortress-26407.herokuapp.com/tarots}
 
