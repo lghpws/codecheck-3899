@@ -1,9 +1,11 @@
 ## デプロイ情報
 #### サービスURL
-{http://example.com}
+- {ws:boiling-ridge-83772.herokuapp.com}
+-データベース
+-{http://salty-fortress-26407.herokuapp.com/tarots}
 
 #### リポジトリURL
-{https://github.com/uuuuu/rrrrr}
+{http://github.com/lghpws/websokbotser33}
 
 #### 使用言語
 - るびー
@@ -17,14 +19,10 @@
 ## 独自コマンドの実装
 #### 追加したコマンド
 ```
-bot {command} [parameters...]
+bot:tarot
 ```
 
 #### コマンドの説明
-
-## 創意工夫 & 作り込み
-#### 作り込んだコマンド / 機能
-
-
-#### 創意工夫したポイント
-
+-タロットカードを引く
+-ランダムに選ばれたタロットカードが返る
+-確率でジョジョの名言が返る
