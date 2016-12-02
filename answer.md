@@ -1,8 +1,8 @@
 ## デプロイ情報
 #### サービスURL
-- {ws:boiling-ridge-83772.herokuapp.com}
+ws:boiling-ridge-83772.herokuapp.com
 #### データベース管理画面
--{http://salty-fortress-26407.herokuapp.com/tarots}
+-　{http://salty-fortress-26407.herokuapp.com/tarots}
 
 #### リポジトリURL
 ######　サーバー
@@ -12,18 +12,17 @@
 - るびー
 
 #### 主なライブラリ
-- faye-websocket,sinatora,アクティブレコード
-
+- faye-websocket,sinatora,アクティブレコード,Rails（管理画面、データベースをチャットサーバと共有）
 ####  ホスティングサービス
 - へろく
 
 ## 実装
+
 #### 追加したコマンド
 ```
 bot:tarot
+{"text":"bot:tarot"}
 ```
 
 #### コマンドの説明
--タロットカードを引く
--ランダムに選ばれたタロットカードが返る
--確率でジョジョの名言が返る
+タロットカードを引く。ランダムに選ばれたタロットカードが返る。確率で名言が返る
